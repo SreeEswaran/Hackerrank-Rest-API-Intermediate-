@@ -1,0 +1,1 @@
+We know how significant the usage of pandas in tabular data and operations. But do you know we can achieve the same using GenAI instead of pandas to generate the similar but more efficient outputs 
